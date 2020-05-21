@@ -1,0 +1,128 @@
+{
+    "activePlayer": 1,
+    "numChanceCards": 16,
+    "numCommunityCards": 16,
+    "numPlayers": 4,
+    "players": [
+        {
+            "diceRoll1": 1,
+            "diceRoll2": 6,
+            "doubleDices": 0,
+            "hasChanceFreePrison": false,
+            "hasCommunityFreePrison": false,
+            "inPrison": false,
+            "isBankrupt": false,
+            "money": 2088,
+            "mortgageProperties": [
+            ],
+            "position": 24,
+            "properties": [
+                6,
+                5,
+                28,
+                0,
+                8,
+                4,
+                9,
+                5
+            ],
+            "timesRolledPrison": 2
+        },
+        {
+            "diceRoll1": 6,
+            "diceRoll2": 4,
+            "doubleDices": 0,
+            "hasChanceFreePrison": false,
+            "hasCommunityFreePrison": false,
+            "inPrison": false,
+            "isBankrupt": false,
+            "money": 26,
+            "mortgageProperties": [
+            ],
+            "position": 9,
+            "properties": [
+                16,
+                1,
+                27,
+                0,
+                19,
+                0,
+                18,
+                0,
+                29,
+                0,
+                26,
+                0
+            ],
+            "timesRolledPrison": 0
+        },
+        {
+            "diceRoll1": 4,
+            "diceRoll2": 6,
+            "doubleDices": 0,
+            "hasChanceFreePrison": false,
+            "hasCommunityFreePrison": false,
+            "inPrison": false,
+            "isBankrupt": false,
+            "money": 124,
+            "mortgageProperties": [
+            ],
+            "position": 21,
+            "properties": [
+                13,
+                0,
+                14,
+                0,
+                31,
+                2,
+                34,
+                1,
+                32,
+                1,
+                11,
+                0
+            ],
+            "timesRolledPrison": 0
+        },
+        {
+            "diceRoll1": 5,
+            "diceRoll2": 6,
+            "doubleDices": 0,
+            "hasChanceFreePrison": false,
+            "hasCommunityFreePrison": false,
+            "inPrison": false,
+            "isBankrupt": false,
+            "money": 532,
+            "mortgageProperties": [
+            ],
+            "position": 28,
+            "properties": [
+                5,
+                0,
+                12,
+                0,
+                39,
+                1,
+                25,
+                0,
+                3,
+                0,
+                15,
+                0,
+                23,
+                0,
+                1,
+                0,
+                37,
+                0,
+                35,
+                0,
+                24,
+                1,
+                21,
+                0
+            ],
+            "timesRolledPrison": 1
+        }
+    ]
+}

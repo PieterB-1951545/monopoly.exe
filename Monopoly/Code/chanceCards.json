@@ -1,0 +1,92 @@
+{
+    "chanceCards": [
+        {
+            "typeCard": "receiveFromBank",
+            "message": "Uw bouwverzekering vervalt, u ontvangt € 150",
+            "action1": 150
+        },
+        {
+            "typeCard": "receiveFromBank",
+            "message": "U hebt een kruiswoordpuzzel gewonnen en ontvangt € 100",
+            "action1": 100
+        },
+        {
+            "typeCard": "receiveFromBank",
+            "message": "De bank betaalt u € 50 dividend",
+            "action1": 50
+        },
+        {
+            "typeCard": "payBank",
+            "message": "Boete voor te snel rijden € 15",
+            "action1": 15
+        },
+        {
+            "typeCard": "payBank",
+            "message": "Aangehouden wegens dronkenschap € 20 boete",
+            "action1": 20
+        },
+        {
+            "typeCard": "payBank",
+            "message": "Betaal schoolgeld € 150",
+            "action1": 150
+        },
+        {
+            "typeCard": "payBuildings",
+            "message": "U wordt aangeslagen voor straatgeld. € 40 per huis, € 115 per hotel",
+            "action1": 40,
+            "action2": 115
+        },
+        {
+            "typeCard": "payBuildings",
+            "message": "Repareer uw huizen. Betaal voor elk huis € 25, betaal voor elk hotel € 100",
+            "action1": 25,
+            "action2": 100
+        },
+        {
+            "typeCard": "moveFromCurrentPos",
+            "message": "Ga drie plaatsen terug",
+            "action1": -3
+        },
+        {
+            "typeCard": "moveToPos",
+            "message": "Ga verder naar de Lange Zoutstraat. Indien u langs Start komt, ontvangt u € 200",
+            "action1": 11,
+            "action2": 200
+        },
+        {
+            "typeCard": "moveToPos",
+            "message": "Reis naar Station Centraal en indien u langs Start komt, ontvangt u € 200",
+            "action1": 15,
+            "action2": 200
+        },
+        {
+            "typeCard": "moveToPos",
+            "message": "Ga verder naar de Grote Markt. Indien u langs Start komt ontvangt u € 200",
+            "action1": 24,
+            "action2": 200
+        },
+        {
+            "typeCard": "moveToPos",
+            "message": "Ga verder naar de Nieuwstraat",
+            "action1": 39,
+            "action2": 0
+        },
+        {
+            "typeCard": "moveToPos",
+            "message": "Ga verder naar Start",
+            "action1": 0,
+            "action2": 200
+        },
+        {
+            "typeCard": "moveToPos",
+            "message": "Ga direct naar de gevangenis. Ga niet langs Start. U ontvangt geen € 200",
+            "action1": 10,
+            "action2": 0
+        },
+        {
+            "typeCard": "prisonWildcard",
+            "message": "Verlaat de gevangenis zonder betalen.",
+            "action1": 10
+        }
+    ]
+}
